@@ -1,1 +1,3 @@
+Coming soon...
+
 ![CLASS Website Preview](PREVIEW.png)
